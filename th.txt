@@ -1,0 +1,53 @@
+PYTHON:
+ProgrammingLang:
+
+Server side | client side
+
+output will be on server side like console.. : c, cpp, java, python..
+Amazone: add to cart:
+out will be on client side , on browser : HTML CSS JS
+Amazone: add to cart: product display
+
+
+Compiler vs interpreter:
+we required compiler:
+Scripting lang:
+Programming lang:
+
+scripting lang inreprted runtime
+
+//class, void main, -sop("hello")
+//hello ,  print("")
+
+2 typed prog / scripting
+Typed:???
+data type:
+variable : data type:
+1)statically typed :when yo dec variable , have specify data type: programmer
+	c,cpp,java
+	int,float,...
+2)dynamically typed:when yo dec variable , dont have specify data type  : compiler / interp..
+	python,javascript
+	data/ value..
+
+:interpter / pyhon
+install:
+
+vs code:
+
+type casting:
+
+implicit typecasting: compiler 
+
+    int a = 100.20;
+    print(a) 100
+
+explicit typecasting: programmer
+
+    up casting | broder    :
+        data = 100[int] --> store float data type
+    down casring | Narrow  :
+        data = 100.20[float] -->stroe int data :which is not possible
+
+bottle : 1 10 ltr
+       : 5 ltr        
