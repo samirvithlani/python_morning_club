@@ -50,4 +50,47 @@ explicit typecasting: programmer
         data = 100.20[float] -->stroe int data :which is not possible
 
 bottle : 1 10 ltr
-       : 5 ltr        
+       : 5 ltr      
+
+
+operators:
+operator are the special symbol which are use to perform specfic op on operand
+1)unery op : ++,--,a++, --b
+    it required oonly 1 operand
+2)binery op
+    it required min 2  operand
+
+1) arithmetic op: +,-,*,/,%,//,**
+2) bitwise op   :&, |,!,^
+3) comp | rel   :==,<,>,<=,>=,!=
+4) asignmnet op : =, arithmetic=, +=,-=
+5) logical op   : and, or, not 
+-----------------------------
+6) membershio op : in, not it
+7)identity op : is , is not
+
+3)ternery op
+    it required min 3 operand
+
+
+decision making statments
+---------------------------
+1)if else
+2)switch case
+3)loops
+
+#python does not have  {}
+if(cond){}
+else{}
+
+#to create blocks we will use indenation
+
+if condition:
+    if blocks
+    if 1
+    if
+    if
+else:
+    else
+    else
+    else    
