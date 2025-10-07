@@ -93,4 +93,28 @@ if condition:
 else:
     else
     else
-    else    
+    else
+
+ifelse
+matchcase
+loops:
+
+entry control loops : for while
+exit control loop : do while
+python does not have exit control loop
+
+for(int i=1;i<=10;i++){
+
+    //body..
+}
+range() -->obbject return 1,10 --> in operator
+i=1
+for i in range(1,10):
+    body..
+
+
+i=1
+
+while condition:
+    body
+    increment++ dec
