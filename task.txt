@@ -1,0 +1,26 @@
+take num from user and reverse no
+123 -- 321
+
+take num from user and check all digits are even or not
+122 -->no
+222 --yes 
+
+lcm of 2 number
+10 15 -- 30
+10   15
+20   30
+30   45
+
+1% 10 == 0 and 1 % 15 ==0 -false
+...
+10%10 ==0 and 10 % 15 ==0 false
+..
+15%10 ==0 and 15 % 15 ==0 false
+.....
+.........
+max % 10 == and max % 15 ==0 true
+
+hcf:
+
+
+digit --> digits even 121 --222 23 

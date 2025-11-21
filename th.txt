@@ -118,3 +118,13 @@ i=1
 while condition:
     body
     increment++ dec
+
+
+String:
+1)string is immutable:
+2)string is dynamic  :
+3)string stores data in array:
+4)string is iterable object:    
+5)sring is subscribptable: single index
+6)string supports slicing
+7)data type of string is str
